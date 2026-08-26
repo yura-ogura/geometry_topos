@@ -32,7 +32,7 @@ By utilizing **Homotopy Type Theory (HoTT)**, **Natural Model Semantics**, and s
   - `Model.lean` : The concrete $\mathcal{Eff}_1$ engine defining $\mathbb{Z}_q$ manifolds, $\Psi_7$ potentials, and `ConcretePath` structural constraints
   - `SemanticProofs.lean` : $\mathbb{Z}_q$ algebraic reduction lemmas and semantic wrappers showing smooth discrete paths yield zero acceleration
   - `Interpretation.lean` : Absolute soundness mapping linking abstract `Hurewicz_lift` syntax to concrete zero-residual geodesic equations
-- `main.lean` : End-to-end verification entry point evaluating syntactic geometric judgments to presheaf morphisms
+　- `main.lean` : End-to-end verification entry point evaluating syntactic geometric judgments to presheaf morphisms
 
 ### Module Breakdown
 
